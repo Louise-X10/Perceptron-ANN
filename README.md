@@ -3,9 +3,9 @@ Aurora image classification
 
 
 ### Directories
-- `yes_aurora`: directory with images labeled as with aurora 
-- `no_aurora`: directory with images labeled as without aurora 
-- `not_known`: directory with unlabeled images (typically with some sign of aurora but hard to make a decision)
+- `yes_aurora`: directory with 1053 images labeled as with aurora 
+- `no_aurora`: directory with 1053 images labeled as without aurora 
+- `not_known`: directory with 2895 unlabeled images (typically with some sign of aurora but hard to make a decision)
 
 ### Files
 - `Color_histogram.py`: code for perceptron training
